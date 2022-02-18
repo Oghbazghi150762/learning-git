@@ -1,7 +1,6 @@
-t
-q
-wq
-:q
+package main
+
+func main() {}
 
 
 
